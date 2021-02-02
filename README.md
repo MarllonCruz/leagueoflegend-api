@@ -1,6 +1,6 @@
 <h1 align="center">League Of Legend API</h1>
 
-<p align="center">O projeto mostra todos campeões do league of legend e tbm mostra informações de cada campeão e tudo isso isso usando API da Riot</p>
+<p align="center">O projeto mostra todos campeões do league of legend e tbm mostra informações de cada campeão e tudo isso usando API da Riot</p>
 
 ## Imagens de demonstração
 <div align="center">
